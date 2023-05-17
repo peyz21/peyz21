@@ -1,6 +1,6 @@
-### Hey there! My name is Peiman (Peyman works as well!) 👨‍💻
+### Hey there! My name is Peiman  👨‍💻
 
--  I’m currently studying at Simon Fraser University - Majored in Computing Sciences (2nd Year)
+-  I’m currently studying at Simon Fraser University - Majored in Computer Sciences (2nd Year)
 -  I’m working my way through learning React, Java SpringBoot, NodeJS, Postgress, and many more webapp related languages!
 
 <p align="center">
