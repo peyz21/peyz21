@@ -1,10 +1,10 @@
-# Hey there! My name is Peiman  👨‍💻
+<h1 align="center"> Hey there! My name is Peiman  👨‍💻</h1>
 
-### I’m currently studying at Simon Fraser University - Majored in Computer Sciences (2nd Year)
-### I’m working my way through learning:
+<h2 align="center"> I’m currently studying at Simon Fraser University - Majored in Computer Sciences (2nd Year) </h2>
+<h3 align="center"> I’m working my way through learning web-development technologies daily 💻 </h3>
+<br>
 
-
-#### Frameworks
+<h4 align="center"> Frameworks </h4>
 <div align="center">
    <img align="center"  src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
    <img align="center"  src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -14,8 +14,7 @@
 </div>
 <br>
 
-#### Languages
-
+<h4 align="center"> Languages </h4>
 <div align="center">
    <img align="center"  src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
    <img align="center"  src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
@@ -26,8 +25,7 @@
 </div>
 <br>
 
-
-#### Other-Technologies
+<h4 align="center"> Other-Technologies </h4>
 
 <div align="center">
    <img align="center"  src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
