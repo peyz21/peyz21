@@ -33,7 +33,7 @@
 
 </p>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=peyz21&show_icons=true&theme=aura" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=peyz21&show_icons=true&theme=dracula" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peyz21&layout=donut" />
 
 
