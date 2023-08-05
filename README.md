@@ -33,11 +33,12 @@
    <img align="center"  src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
    <img align="center"  src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
    <img align="center"  src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+   <img align="center" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </div>
 <br>
 
 <p align="center">
-    <img src="https://steamuserimages-a.akamaihd.net/ugc/860610312554032555/487E65FCC15C60E817F901A747D323B25AB584A1/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="animated" />
+    <img src="https://github.com/peyz21/peyz21/assets/64120482/f5dcd88d-59d8-459d-8663-0a712165fbce" alt="animated" />
 </p>
  
 
