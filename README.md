@@ -1,6 +1,6 @@
 <h1 align="center"> Hey there! My name is Peiman  👨‍💻</h1>
 
-<h3 align="center"> I’m currently studying at Simon Fraser University - Majored in Computer Sciences (2nd Year) </h3>
+<h3 align="center"> I’m currently studying at Simon Fraser University - Majored in Computer Sciences (2nd-3rd Year) </h3>
 <h3 align="center"> I’m working my way through learning web-development technologies and honing my skills daily 💻 </h3>
 <br>
 
