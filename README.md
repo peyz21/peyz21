@@ -1,7 +1,7 @@
 <h1 align="center"> Hey there! My name is Peiman  👨‍💻</h1>
 
 <h3 align="center"> I’m currently studying at Simon Fraser University - Majored in Computer Sciences (4rd Year) </h3>
-<h3 align="center"> I’m working my way through learning web-development technologies and honing my skills daily 💻 </h3>
+<h3 align="center"> I’m working my way through learning System design and cloud architecture in order to build new stuff that people want💻 </h3>
 
 
 <br>
@@ -19,9 +19,9 @@
 <h4 align="center"> Languages </h4>
 <div align="center">
    <img align="center"  src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+   <im
    <img align="center"  src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
    <img align="center"  src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-   <img align="center"  src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
    <img align="center"  src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
    <img align="center"  src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
