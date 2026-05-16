@@ -1,51 +1,84 @@
-<h1 align="center"> Hey there! My name is Peiman  👨‍💻</h1>
-
-<h3 align="center"> I’m currently studying at Simon Fraser University - Majored in Computer Sciences (4rd Year) </h3>
-<h3 align="center"> I’m working my way through learning System design and cloud architecture in order to build new stuff that people want💻 </h3>
-
-
-<br>
-
-<h4 align="center"> Frameworks </h4>
-<div align="center">
-   <img align="center"  src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-   <img align="center"  src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-   <img align="center"  src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
-   <img align="center"  src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-   <img align="center"  src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
-</div>
-<br>
-
-<h4 align="center"> Languages </h4>
-<div align="center">
-   <img align="center"  src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-   <im
-   <img align="center"  src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-   <img align="center"  src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-   <img align="center"  src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-   <img align="center"  src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-</div>
-<br>
-
-<h4 align="center"> Other-Technologies </h4>
-
-<div align="center">
-   <img align="center"  src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-   <img align="center"  src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-   <img align="center"  src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-   <img align="center"  src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-   <img align="center"  src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-   <img align="center" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
-</div>
-<br>
+<h1 align="center">Hey, I'm Peiman 👋</h1>
 
 <p align="center">
-    <img src="https://github.com/peyz21/peyz21/assets/64120482/f5dcd88d-59d8-459d-8663-0a712165fbce" alt="animated" />
+  Backend Developer • Systems & Cloud Engineering • AI & Distributed Systems
 </p>
- 
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=peyz21&show_icons=true&theme=dracula" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peyz21&layout=donut" />
+---
 
+### 👨‍💻 About Me
 
+- 🎓 Computing Science student at <a href="https://www.sfu.ca/">Simon Fraser University</a>
+- 💼 Backend Developer Intern at Samsung
+- ☁️ Interested in distributed systems, cloud infrastructure, backend architecture, and AI systems
+- 🛠️ Building scalable APIs, automation tools, cloud services, and full-stack products
+- 🚀 I enjoy turning ideas into production-ready systems people actually use
 
+---
+
+### ⚙️ Tech Stack
+
+#### Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cs,js,ts,python,php,html,css" />
+</p>
+
+#### Frameworks & Backend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,react,express,dotnet,firebase" />
+</p>
+
+#### Cloud & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,terraform,postgres,mongodb,githubactions,git" />
+</p>
+
+---
+
+### 🏆 Projects & Experience
+
+- 🔧 Built backend systems and automation tooling at Samsung and Operto
+- 📊 Created monitoring dashboards and alerts across multiple production services
+- 🤖 Worked on AI-powered newcomer support systems with SFU Blueprint & MOSAIC BC
+- 🌎 Built award-winning hackathon projects involving WebSockets, geospatial systems, and real-time multiplayer architecture
+
+---
+
+### 📈 GitHub Activity
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats-one-bice.vercel.app/api?username=peyz21&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=peyz21&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="96%" src="https://github-readme-streak-stats.herokuapp.com/?user=peyz21&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/peyz21/peyz21/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/peyz21/peyz21/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/peyz21/peyz21/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/peyz21">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/peiman-zhiani/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
