@@ -9,7 +9,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 Computing Science student at <a href="https://www.sfu.ca/">Simon Fraser University</a>
-- 💼 Backend Developer Intern at Samsung
+- 💼 Previously Backend Developer Intern at Samsung | Full-Stack Developer at Operto
 - ☁️ Interested in distributed systems, cloud infrastructure, backend architecture, and AI systems
 - 🛠️ Building scalable APIs, automation tools, cloud services, and full-stack products
 - 🚀 I enjoy turning ideas into production-ready systems people actually use
